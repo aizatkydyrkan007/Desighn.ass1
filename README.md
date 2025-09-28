@@ -1,4 +1,4 @@
-# Assignment 1: Divide and Conquer Algorithms
+# Assignment 1: Design and Analysis of Algorithms
 
 This report summarizes the implementation, analysis, and experimental evaluation of QuickSort, Deterministic Select (Median of Medians), MergeSort, and Closest Pair of Points algorithms.
 
